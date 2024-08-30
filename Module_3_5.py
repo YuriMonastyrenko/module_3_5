@@ -8,5 +8,7 @@ def get_multiplied_digits(number):
 
 result1 = get_multiplied_digits(40203)
 result2 = get_multiplied_digits(100000000067088)
+result3 = get_multiplied_digits(1)
 print(result1)
 print(result2)
+print(result3)
